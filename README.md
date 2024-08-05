@@ -7,7 +7,7 @@ Hello, I'm **Windanaeve**! 🌟 A passionate blockchain enthusiast and developer
 Feel free to reach out and connect with me on various platforms:
 
 - **X**: [@Windanaeve](https://x.com/Windanaeve) 🐦
-- **Discord**: [windanaeve](https://discordapp.com/users/843804914035720212) 🎮
+- **Discord**: [@windanaeve](https://discordapp.com/users/843804914035720212) 🎮
 - **Mirror.xyz**: [Windanaeve](https://mirror.xyz/0x637213F434B7174E9d919E7fdCA82486D1eb5E3E) 🌐
 
 ## My Blockchain Journey 🚀
